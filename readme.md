@@ -1,6 +1,6 @@
 # Free API Menu - Free and Developer & AI-Friendly API Directory
 
-[English](./readme.md) / [中文](./readme-chs.md) / [日本語](./readme-jp.md) 
+[English](./readme.md) / [涓枃](./readme-chs.md) / [鏃ユ湰瑾瀅(./readme-jp.md) 
 
 API Menu offers free API resources for developers, where you can easily view and search our collection of free APIs and filter them based on your specific needs, making it convenient for you to build exceptional applications and projects. Not only that, but we have also specially marked APIs that are "AI-friendly," making them easy for AI to understand and use, empowering your AI projects to be more intelligent and efficient.
 

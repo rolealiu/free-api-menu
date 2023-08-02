@@ -1,6 +1,6 @@
 # Free API Menu - 免费且对开发者、AI友好的 API 目录
 
-[English](./readme.md) / [中文](./readme-chs.md) / [中文](./readme-jp.md) 
+[English](./readme.md) / [中文](./readme-chs.md) / [日本語](./readme-jp.md) 
 
 API Menu 为开发者提供免费API资源，在这里你可以轻松地查看和搜索我们收集的免费 API，并根据你的需求筛选合适的API，方便你构建出色的应用和项目。不仅如此，我们还为那些便于 AI 理解和使用的 API 进行了“AI友好”的特别标注，助力你的AI项目更加智能高效。
 

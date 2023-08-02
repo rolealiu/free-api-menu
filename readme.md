@@ -1,29 +1,29 @@
 # Free API Menu - Free and Developer & AI-Friendly API Directory
 
-[English](./readme.md) / [涓枃](./readme-chs.md) / [涓枃](./readme-jp.md) 
+[English](./readme.md) / [中文](./readme-chs.md) / [日本語](./readme-jp.md) 
 
 API Menu offers free API resources for developers, where you can easily view and search our collection of free APIs and filter them based on your specific needs, making it convenient for you to build exceptional applications and projects. Not only that, but we have also specially marked APIs that are "AI-friendly," making them easy for AI to understand and use, empowering your AI projects to be more intelligent and efficient.
 
-馃 95% of this project was developed, data collected, and analyzed by AI!
+ 95% of this project was developed, data collected, and analyzed by AI!
 
-馃憤 Thanks to the outstanding developers who provided APIs to us!
+ Thanks to the outstanding developers who provided APIs to us!
 
-## 馃殌 Quick Start
+##  Quick Start
 
-Website: 馃憠 [https://apimenu.com](https://apimenu.com) 馃憟
+Website:  [https://apimenu.com](https://apimenu.com) 
 
-UI Search: 馃憠 [https://menu.apimenu.com](https://menu.apimenu.com) 
+UI Search:  [https://menu.apimenu.com](https://menu.apimenu.com) 
 
-## 馃摎 API List
+##  API List
 
-馃 API Menu provides free and unauthenticated APIs for easy integration with programs and AI, eliminating the need for third-party API authentication.
+ API Menu provides free and unauthenticated APIs for easy integration with programs and AI, eliminating the need for third-party API authentication.
 
 | API Name                  | Request Method | Path                  | Query Parameters                                      | Description                   |
 |--------------------------|----------------|-----------------------|-------------------------------------------------------|-------------------------------|
 | Search API          | GET     | https://get.apimenu.com   | id: API ID, used to precisely find a specific API </br></br> language: Language of API data </br></br> status: API running status </br></br> topics: API topics </br></br> price: API charging status </br></br> ai_friendly: AI-friendly for easier AI understanding and usage   | Get detailed information about an API, supports multiple parameters for filtering.</br></br>When passing the 'id', it will return a single API with detailed documentation (if available).             |
 | Get API Topics       | GET     | https://topics.apimenu.com| -language   | Get API topics based on the specified language  |
 
-## 猸愶笍 Python Code Example
+##  Python Code Example
 
 ```python
 import requests
@@ -51,7 +51,7 @@ api_topics = get_api_topics('eng')
 print(api_topics)
 ```
 
-## 猸愶笍 JavaScript Code Example
+##  JavaScript Code Example
 
 ```javascript
 const fetch = require('node-fetch');
@@ -84,4 +84,4 @@ getApiTopics('eng')
 
 ---
 
-Thank you for using API Menu. We look forward to seeing the amazing projects you create! 馃殌
+Thank you for using API Menu. We look forward to seeing the amazing projects you create! 

@@ -1,4 +1,4 @@
-# Free API Menu - 免费且对开发者、AI友好的 API 目录
+# Free API Menu - 免费 API 大全
 
 [English](./readme.md) / [中文](./readme-chs.md) / [日本語](./readme-jp.md) 
 

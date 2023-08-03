@@ -1,4 +1,4 @@
-# Free API Menu - Free and Developer & AI-Friendly API Directory
+# Free API Menu - Free API For Developer & AI & Everything
 
 [English](./readme.md) / [中文](./readme-chs.md) / [日本語](./readme-jp.md) 
 

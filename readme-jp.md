@@ -1,4 +1,4 @@
-# 無料APIメニュー - 無料で開発者＆AIフレンドリーなAPIディレクトリ
+# 無料APIメニュー - 無料API大全
 
 [English](./readme.md) / [中文](./readme-chs.md) / [日本語](./readme-jp.md) 
 

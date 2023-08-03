@@ -12,7 +12,7 @@ API Menu 为开发者提供免费API资源，在这里你可以轻松地查看�
 
 官网：👉 [https://apimenu.com](https://apimenu.com) 👈
 
-UI 检索：👉 [https://menu.apimenu.com](https://menu.apimenu.com) 
+API 检索：👉 [https://explore.apimenu.com](https://explore.apimenu.com) 
 
 
 ## 📚 API列表

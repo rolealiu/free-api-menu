@@ -12,7 +12,7 @@ API Menu offers free API resources for developers, where you can easily view and
 
 Website: 👉 [https://apimenu.com](https://apimenu.com) 👈
 
-UI Search: 👉 [https://menu.apimenu.com](https://menu.apimenu.com) 
+Explore API: 👉 [https://explore.apimenu.com](https://explore.apimenu.com) 
 
 ## 📚 API List
 

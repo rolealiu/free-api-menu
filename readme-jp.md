@@ -12,7 +12,7 @@ APIメニューは、開発者向けに無料のAPIリソースを提供して�
 
 ウェブサイト：👉 [https://apimenu.com](https://apimenu.com) 👈
 
-UI検索：👉 [https://menu.apimenu.com](https://menu.apimenu.com) 
+API検索：👉 [https://explore.apimenu.com](https://explore.apimenu.com) 
 
 ## 📚 APIリスト
 
